@@ -32,6 +32,21 @@
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
     }
-  ]
+  ],
+"login":[
+	{
+"id":1;
+"username":"jatin@gmail.com",
+"password":"jatin@123"
+}
 
+],
+"signup":[
+	{
+"id":1;
+"name":"jatin",
+"username":"jatin@gmail.com",
+"password":"jatin@123"
+}
+]
 }
