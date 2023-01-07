@@ -35,7 +35,7 @@
   ],
 "login":[
 	{
-"id":1;
+"id":1,
 "username":"jatin@gmail.com",
 "password":"jatin@123"
 }
@@ -43,7 +43,7 @@
 ],
 "signup":[
 	{
-"id":1;
+"id":1,
 "name":"jatin",
 "username":"jatin@gmail.com",
 "password":"jatin@123"
