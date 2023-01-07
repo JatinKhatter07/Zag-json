@@ -37,14 +37,17 @@
 "id":1,
 "user-name":"jatin@gmail.com",
 "password":"jatin@123",
-}],
+}
+],
 
-"signup":[{
+"signup":[
+{
 "id":1,
 "name":"jatin",
 "user-name":"jatin@gmail.com",
 "password":"jatin@123",
 	
-}]
+}
+],
 
 }
