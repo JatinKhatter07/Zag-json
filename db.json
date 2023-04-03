@@ -30,14 +30,15 @@
 
 ],
 
- "Hotels & Resorts":[
+ "Hotels":[
 
       {
         "id":1,
       "title":"Octave Church Inn",
       "Image":"",
       "Text":"",
-      "Place":"Shivaji Nagar"
+      "Place":"Shivaji Nagar",
+"tag":"Hotels & Resorts"
     
     
       },
@@ -46,7 +47,8 @@
       "title":"ITC Windsor",
       "Image":"",
       "Text":"ITC Windsor is the Bangalore’s 1st Luxury hotel from the airport (45 minutes), and a distinguished address in the heart of the state capital. Architecturally styled on the British Regency era, this luxurious hotel is set within an ambience reminiscent of the halcyon days of the British Raj. With a platinum grade commitment to guests and the planet, ITC Windsor is certified with a LEED (Leadership in Energy and Environmental Design) Platinum rating for globally recognized planet positive endeavours. It is also the first hotel in the world to be certified LEED Zero Carbon.With 240 well-appointed rooms and luxury suites, 6 F&B outlets, spa and gymnasium, concierge services and state of the art business centre, the hotel enjoys the reputation of a place where old world ambience merges effortlessly with international standards of efficienc. Used by major international flight crew and has played host to various dignitaries, Heads of States, Global CEOs and senior management of major companies.",
-      "Place":"Golf Course Road"
+      "Place":"Golf Course Road",
+"tag":"Hotels & Resorts"
     
     
       },
@@ -55,21 +57,23 @@
       "title":"Welcomhotel by ITC",
       "Image":"",
       "Text":"Situated amongst lush, landscaped gardens, Welcomhotel Bengaluru is 37 km. away from the airport and conveniently placed in close proximity to the city’s shopping, entertainment and commercial zones. From contemporary interiors to exquisite fine dining to a rejuvenating spa, we look forward to offering you unique experiences with deeper meaning so you can enjoy a comfortable stay in India’s Silicon Valley",
-      "Place":"Richmond Road"
+      "Place":"Richmond Road",
+"tag":"Hotels & Resorts"
     
     
       }
   
     ],
 
-    "Restaurants & Cafes":[
+    "Restaurants":[
       {
         "id":1,
       "title":"Barbeque Nation",
       "Image":"",
       "place":"Indiranagar 2nd Stage",
       "Text":"Indian cuisine is a natural part of the diet in the markets in which the Barbeque Nation Restaurants operate. We continue to offer new menu options, both vegetarian and non-vegetarian, largely based on Indian cuisine, and use seasonal customer preferences to introduce new dishes. We also run popular food festivals at our Barbeque Nation Restaurants, thereby offering our customers a range of Indian and international cuisines.",
-      "Verified":"yes"
+      "Verified":"yes",
+"tag":"Restaurants & Cafes"
     
     
       },
@@ -79,7 +83,8 @@
       "Image":"",
       "Text":"Anand Sweets is a great sweets shop which passion is to craft and deliver authentic sweets and savories in royal taste of india. From lavish kaju sweets, to pure ghee delicacies and freshly made savories, every morsel is imagined and created with a single intent, to deliver joy – true Anand.",
       "Verified":"yes",
-      "Place":"Koramangala 5th Block"
+      "Place":"Koramangala 5th Block",
+"tag":"Restaurants & Cafes"
 
     
     
@@ -90,7 +95,8 @@
       "Image":"",
       "Text":"Anand Sweets is a great sweets shop which passion is to craft and deliver authentic sweets and savories in royal taste of india. From lavish kaju sweets, to pure ghee delicacies and freshly made savories, every morsel is imagined and created with a single intent, to deliver joy – true Anand.",
       "Verified":"yes",
-      "place":"Indiranagar 2nd Stage"
+      "place":"Indiranagar 2nd Stage",
+"tag":"Restaurants & Cafes"
 
     
     
@@ -246,6 +252,6 @@
   ],
 
 "signup":[
- 
+ {}
  ]
 }
