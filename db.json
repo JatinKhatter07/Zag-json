@@ -205,7 +205,7 @@
     }
     
   ],
-  "Blogs":[
+  "LandingBlogs":[
     {
       "id":"1",
       "Title":"4 Best Yogurt Combinations for Belly Fat Loss",
@@ -226,25 +226,12 @@
       "Image":"https://zagnow.in/wp-content/uploads/2022/08/Nature-resorts-scaled-1-900x500.jpg",
       "Text":""
 
-    },
-    {
-      "id":"4",
-      "Title":"4 Best Yogurt Combinations for Belly Fat Loss",
-      "Image":"https://zagnow.in/wp-content/uploads/2022/09/healthy-yogurt-for-weight-loss-scaled-1-768x576.jpg",
-      "Text":""
-
-    },
-    {
-      "id":"5",
-      "Title":"4 Best Yogurt Combinations for Belly Fat Loss",
-      "Image":"https://zagnow.in/wp-content/uploads/2022/09/healthy-yogurt-for-weight-loss-scaled-1-768x576.jpg",
-      "Text":""
-
     }
+  
 
   ],
 
 "signup":[
- {}
+
  ]
 }
