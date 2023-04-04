@@ -1,31 +1,31 @@
 {
  "Categories":[
 {"id":1,
-"image":"",
+"image":"https://img.freepik.com/free-photo/beautiful-umbrella-chair-around-swimming-pool-hotel-resort_74190-1006.jpg?w=996&t=st=1680623447~exp=1680624047~hmac=8d065fca71ea7c56f4d3a9a8a40141842c3c3fc2d318416230f4af32835eeff8",
 "title":"Hotels & Resorts"},
 
 {"id":2,
-"image":"",
-"title":"Grocery & Kiryana"},
+"image":"https://img.freepik.com/premium-photo/al-jubail-souk-sharjah_78361-14253.jpg?w=996",
+"title":"Grocery & Kirana"},
 
 {"id":3,
-"image":"",
+"image":"https://img.freepik.com/free-photo/wide-shot-bottles-glasses-display-cabinet-bar-scandic-hotel-copenhagen-denmark_181624-2920.jpg?w=996&t=st=1680623590~exp=1680624190~hmac=e7b6c55e7e2845e6783743cf0f58b548d319546bcb0b02bae0e422ffddefee61",
 "title":"Pubs & Bars"},
 
 {"id":4,
-"image":"",
+"image":"https://img.freepik.com/free-photo/luxury-bedroom-hotel_1150-10836.jpg?w=996&t=st=1680623674~exp=1680624274~hmac=9490393ea87f7ee4ab3d744f11472547ec4f39d6735ceea9ea217c8729f223a7",
 "title":"Flats & PGs"},
 
 {"id":5,
-"image":"",
+"image":"https://img.freepik.com/free-photo/handsome-man-barber-shop-styling-hair_1303-20978.jpg?w=996&t=st=1680623731~exp=1680624331~hmac=51c395839338ca292ab454c11b605acd33bebf1b33c77a1fc764e86c25bb20f0",
 "title":"Salons & Spas"},
 
 {"id":6,
-"image":"",
+"image":"https://img.freepik.com/premium-photo/gym-interior-with-equipments_23-2147949749.jpg?w=996",
 "title":"Gyms & Fitness centers"},
 
 {"id":7,
-"image":"",
+"image":"https://img.freepik.com/premium-photo/interior-restaurant-modern-design-few-colors-orange-blue_79762-2596.jpg?w=996",
 "title":"Restaurants & Cafes"}
 
 ],
