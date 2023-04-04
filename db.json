@@ -38,7 +38,8 @@
       "Image":"https://zagnow.in/wp-content/uploads/2022/09/church-inn-8-1-520x397.jpg",
       "Text":"",
       "Place":"Shivaji Nagar",
-"tag":"Hotels & Resorts"
+"tag":"Hotels & Resorts",
+       "Rating":"4.6"
     
     
       },
@@ -48,7 +49,8 @@
       "Image":"https://zagnow.in/wp-content/uploads/2022/09/blrlc-front-0343-hor-clsc-1-520x397.jpg",
       "Text":"ITC Windsor is the Bangalore’s 1st Luxury hotel from the airport (45 minutes), and a distinguished address in the heart of the state capital. Architecturally styled on the British Regency era, this luxurious hotel is set within an ambience reminiscent of the halcyon days of the British Raj. With a platinum grade commitment to guests and the planet, ITC Windsor is certified with a LEED (Leadership in Energy and Environmental Design) Platinum rating for globally recognized planet positive endeavours. It is also the first hotel in the world to be certified LEED Zero Carbon.With 240 well-appointed rooms and luxury suites, 6 F&B outlets, spa and gymnasium, concierge services and state of the art business centre, the hotel enjoys the reputation of a place where old world ambience merges effortlessly with international standards of efficienc. Used by major international flight crew and has played host to various dignitaries, Heads of States, Global CEOs and senior management of major companies.",
       "Place":"Golf Course Road",
-"tag":"Hotels & Resorts"
+"tag":"Hotels & Resorts",
+"Rating":4.5"
     
     
       },
@@ -58,7 +60,20 @@
       "Image":"https://zagnow.in/wp-content/uploads/2022/09/exterior-1-520x397.png",
       "Text":"Situated amongst lush, landscaped gardens, Welcomhotel Bengaluru is 37 km. away from the airport and conveniently placed in close proximity to the city’s shopping, entertainment and commercial zones. From contemporary interiors to exquisite fine dining to a rejuvenating spa, we look forward to offering you unique experiences with deeper meaning so you can enjoy a comfortable stay in India’s Silicon Valley",
       "Place":"Richmond Road",
-"tag":"Hotels & Resorts"
+"tag":"Hotels & Resorts",
+"Rating":"4"
+    
+    
+      },
+ {
+        "id":4,
+      "title":"Taj West End",
+      "Image":"https://www.tajhotels.com/content/dam/luxury/hotels/TajWestEndBangalore/images/gallery/Rooms_&_suites_Tata_Suite_wogli_27651206-H1-PresidentialSuite-3x2(1).jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg",
+"Text":"This luscious green 20-acre property is surrounded by 150-old raintrees, banyans and gulmohars that significantly reduces the excessive traffic noise and keeps you well connected to the peaceful nature inside. There is no doubt that this hotel is one of the most verdant hotels in Bangalore and is beloved by locals and frequent guests alike.
+",
+      "Place":" Race Course Rd, High Grounds",
+"tag":"Hotels & Resorts",
+"Rating":"4"
     
     
       }
@@ -73,7 +88,8 @@
       "Place":"Indiranagar 2nd Stage",
       "Text":"Indian cuisine is a natural part of the diet in the markets in which the Barbeque Nation Restaurants operate. We continue to offer new menu options, both vegetarian and non-vegetarian, largely based on Indian cuisine, and use seasonal customer preferences to introduce new dishes. We also run popular food festivals at our Barbeque Nation Restaurants, thereby offering our customers a range of Indian and international cuisines.",
       "Verified":"yes",
-"tag":"Restaurants & Cafes"
+"tag":"Restaurants & Cafes",
+"Rating":"5"
     
     
       },
@@ -84,7 +100,8 @@
       "Text":"Anand Sweets is a great sweets shop which passion is to craft and deliver authentic sweets and savories in royal taste of india. From lavish kaju sweets, to pure ghee delicacies and freshly made savories, every morsel is imagined and created with a single intent, to deliver joy – true Anand.",
       "Verified":"yes",
       "Place":"Koramangala 5th Block",
-"tag":"Restaurants & Cafes"
+"tag":"Restaurants & Cafes",
+"Rating":"4"
 
     
     
@@ -96,7 +113,8 @@
       "Text":"Anand Sweets is a great sweets shop which passion is to craft and deliver authentic sweets and savories in royal taste of india. From lavish kaju sweets, to pure ghee delicacies and freshly made savories, every morsel is imagined and created with a single intent, to deliver joy – true Anand.",
       "Verified":"yes",
       "Place":"Indiranagar 2nd Stage",
-"tag":"Restaurants & Cafes"
+"tag":"Restaurants & Cafes",
+"Rating":"4.5"
 
     
     
@@ -108,7 +126,8 @@
       "title":"More Supermarket",
       "Image":"https://zagnow.in/wp-content/uploads/2022/09/photo-1593412578702-3332c86f3db3-1-1200x960.jpeg",
       "Text":"",
-      "Place":"Koramangla 8th Block"
+      "Place":"Koramangla 8th Block",
+"Rating":"4.3"
 
     
     
@@ -118,28 +137,44 @@
       "title":"DMart",
       "Image":"https://zagnow.in/wp-content/uploads/2022/09/photo-1580674287405-80cd77a2fee2-1-1200x801.jpeg",
       "Text":"",
-      "Place":"Koramangala 1st Block"
+      "Place":"Koramangala 1st Block",
+"Rating":"5"
     
     
-      }
+      },
+    {
+        "id":3,
+      "title":"Food One Supermart",
+      "Image":"https://images.unsplash.com/photo-1542838132-92c53300491e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80",
+      "Text":"",
+      "Place":"Koramangala 8th Block",
+"Rating":"4"
+    
+    
+      },
+    "id":4,
+      "title":"Sowbhagya Traders",
+      "Image":"https://images.unsplash.com/photo-1584680226833-0d680d0a0794?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+      "Text":"",
+      "Place":"KHB Colony 6th Block",
+"Rating":"4"
+    
+    
+      },
+
     ],
     "Salon":[
       {
         "id":1,
-      "title":"",
-      "Image":"",
-      "Text":""
-    
-    
-      },
-      {
-        "id":2,
-      "title":"",
-      "Image":"",
-      "Text":""
+      "title":"Hair Speak Family Salon",
+      "Image":"https://hairspeakindia.com/image/gallerylarge/Kor_14.jpg ,  https://hairspeakindia.com/image/gallerylarge/Kor_11.jpg, https://hairspeakindia.com/image/gallerylarge/Kor_9.png , https://hairspeakindia.com/image/gallerylarge/Kor_4.png",
+      "Text":"hair and beauty services available",
+  "Place":"KHB Block Koramangala",
+"Rating":"5"
     
     
       }
+  
     ],
     "Spa":[
       {
@@ -231,7 +266,8 @@
 
   ],
 
-"signup":[
+"Blogs":[
+
 
  ]
 }
