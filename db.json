@@ -150,7 +150,21 @@
             "Categories":"Grocery",
             "Place": "KHB Colony 6th Block",
             "Rating": 4
+        },
+        {
+            "id": 5,
+            "title": "Byg Brewski",
+            "Image": "https://zagnow.in/wp-content/uploads/2022/09/305094133_5442222722482051_9095469710530549277_n-1-520x397.jpg",
+            "Text": "Best Place to drink",
+            "tag":"grocery-kirana",
+            "Categories":"Pubs",
+            "Place": "KHB Colony 6th Block",
+            "Rating": 4
         }
+        
+
+
+
     ],
     "LandingBlogs":[
         {
@@ -173,7 +187,16 @@
           "Image":"https://zagnow.in/wp-content/uploads/2022/08/Nature-resorts-scaled-1-900x500.jpg",
           "Text":"Welcome to our engaging blog! Discover intriguing articles on various topics, from travel and lifestyle to technology and culture. Get inspired, informed, and entertained with our well-researched content, written by industry experts. Join our community of avid readers and explore the world through our virtual pages. Happy reading!"
     
-        }
+        },
+        {
+            "id":"3",
+            "Title":"Top nature resorts near Bangalore Perfect getaways",
+            "Image":"https://zagnow.in/wp-content/uploads/2022/08/Nature-resorts-scaled-1-900x500.jpg",
+            "Text":"Welcome to our engaging blog! Discover intriguing articles on various topics, from travel and lifestyle to technology and culture. Get inspired, informed, and entertained with our well-researched content, written by industry experts. Join our community of avid readers and explore the world through our virtual pages. Happy reading!"
+      
+          }
+          
+
       
     
       ]
