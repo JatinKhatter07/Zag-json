@@ -41,7 +41,7 @@
             "id": 1,
             "title": "Octave Church Inn",
             "Image": "https://zagnow.in/wp-content/uploads/2022/09/church-inn-8-1-520x397.jpg",
-            "Text": "Thsi is the Best place to stay",
+            "Text": "This is the Best place to stay",
             "Categories":"Grocery",
             "Place": "Shivaji Nagar",
             "tag": "hotel-resort",
@@ -150,21 +150,7 @@
             "Categories":"Grocery",
             "Place": "KHB Colony 6th Block",
             "Rating": 4
-        },
-        {
-            "id": 5,
-            "title": "Byg Brewski",
-            "Image": "https://zagnow.in/wp-content/uploads/2022/09/305094133_5442222722482051_9095469710530549277_n-1-520x397.jpg",
-            "Text": "Best Place to drink",
-            "tag":"grocery-kirana",
-            "Categories":"Pubs",
-            "Place": "KHB Colony 6th Block",
-            "Rating": 4
         }
-        
-
-
-
     ],
     "LandingBlogs":[
         {
@@ -188,42 +174,7 @@
           "Text":"Welcome to our engaging blog! Discover intriguing articles on various topics, from travel and lifestyle to technology and culture. Get inspired, informed, and entertained with our well-researched content, written by industry experts. Join our community of avid readers and explore the world through our virtual pages. Happy reading!"
     
         }
-       
-
       
     
-      ],
-"Blogs":[
-
-
-  {
-          "id":"5",
-          "Title":"4 Best Yogurt Combinations for Belly Fat Loss",
-          "image":"https://zagnow.in/wp-content/uploads/2022/09/healthy-yogurt-for-weight-loss-scaled-1-768x576.jpg",
-          "Text":"Welcome to our engaging blog! Discover intriguing articles on various topics, from travel and lifestyle to technology and culture. Get inspired, informed, and entertained with our well-researched content, written by industry experts. Join our community of avid readers and explore the world through our virtual pages. Happy reading!"
-    
-        },
-        {
-          "id":"6",
-          "Title":"Beautiful beaches to visit in India",
-          "image":"https://zagnow.in/wp-content/uploads/2022/09/beaches-768x512.jpg",
-          "Content1":"Welcome to our engaging blog! Discover intriguing articles on various topics, from travel and lifestyle to technology and culture. Get inspired, informed, and entertained with our well-researched content, written by industry experts. Join our community of avid readers and explore the world through our virtual pages. Happy reading!"
-    
-        },
-        {
-          "id":"7",
-          "Title":"Top nature resorts near Bangalore Perfect getaways",
-          "image":"https://zagnow.in/wp-content/uploads/2022/08/Nature-resorts-scaled-1-900x500.jpg",
-          "content1":"Welcome to our engaging blog! Discover intriguing articles on various topics, from travel and lifestyle to technology and culture. Get inspired, informed, and entertained with our well-researched content, written by industry experts. Join our community of avid readers and explore the world through our virtual pages. Happy reading!"
-    
-        }
-
-]
-
-
-
-
-
-
-
+      ]
 }
