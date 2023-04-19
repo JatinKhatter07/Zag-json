@@ -8584,9 +8584,109 @@
         "glusr_usr_sellinterest": "",
         "glusr_usr_company_desc": "2015 / South India / 6 Employees"
       }
-      ]
+      ],
+
+"Landing_blogs":[
+{
+"id":1,
+"Created_by":"Axay",
+
+
+"title":"4 Best Yogurt Combinations for Belly Fat Loss",
+"image":"https://zagnow.in/wp-content/uploads/2022/09/healthy-yogurt-for-weight-loss-scaled-1-900x500.jpg",
+"text":"Healthy yogurt bowls make a great breakfast or snack! It’s fine to eat plain yogurt, but when you add some toppings, it becomes amazing! Today I’m sharing different ways to top a Yogurt Bowl (my personal favorite ways).",
+"category":"Health & Fitness"
+},
+{
+    "id":2,
+    "Created_by":"Axay",
+
+
+    "title":"Beautiful beaches to visit in India",
+    "image":"https://zagnow.in/wp-content/uploads/2022/09/beaches-768x512.jpg",
+    "text":"Coastal environments are proven to be good for our physical and mental health. The time spent near water is the secret to happiness. You’d rather be at the beach has a perfect view and activities that are delightful to experience during summer. It is a place that everyone would love to be at all times.",
+    "category":"Tips & Travel"
+    },
+    {
+        "id":3,
+        "Created_by":"Axay",
+
+
+        "title":"Top nature resorts near Bangalore – Perfect getaways",
+        "image":"https://zagnow.in/wp-content/uploads/2022/08/Nature-resorts-scaled-1-900x500.jpg",
+        "text":"If you have already started to look for ways to spend time in mother nature, a wildlife holiday is always a fantastic idea. Karnataka is home to some of India’s great wildlife destinations. A relaxing vacation in the wilderness could be a nice way to unwind from the daily city grind. Here, we have got some of the best jungle resorts and lodges near Bengaluru for you.",
+        "category":"Tips & Travels"
+        },
+        {
+            "id":4,
+            "Created_by":"Axay",
+
+
+            "title":"The 3 Most Popular Buffets in Bangalore",
+            "image":"https://zagnow.in/wp-content/uploads/2022/08/food_buffet_1-768x449.png",
+            "text":"Are you one of those who have a hard time making decisions about what to eat and what to miss or wanna try multiple dishes in one go?",
+            "category":"Healthy living"
+            },
+            {
+                "id":5,
+                "Created_by":"Axay",
+"Created_on":"",
+
+                "title":"The 6 Most Iconic Restaurants in Bangalore, you should not miss",
+                "image":"https://zagnow.in/wp-content/uploads/2022/07/food2-900x500.jpeg",
+                "text":"Before independence, the incredible breakfast joints to the old-world establishments, that have served iconic personalities like Jawaharlal Nehru and Queen Elizabeth II came from Bengaluru.",
+                "category":"Restaurants & Cafes"
+                },
+                {
+                    "id":6,
+                    "Created_by":"Axay",
+
+
+                    "title":"Customer Experience From Zag Perspective",
+                    "image":"https://zagnow.in/wp-content/uploads/2022/04/Party_1-scaled-1-900x500.jpg",
+                    "text":"“Customer obsession” – you will most definitely come across these words when you interact with anyone from a new age consumer brand. In simple terms, every brand aims to keep customers at the center of everything they do. This also makes perfect sense. You become a customer’s primary choice of product or service only if you match their expectations. And if you want the customer to keep coming back, customer obsession becomes even more important. This makes ‘providing a stellar customer experience (CE)’ a key goal for most companies.",
+                    "category":"Businesses"
+                    },{
+                        "id":7,
+                        "Created_by":"Axay",
+
+
+                        "title":"8 Tips for renting a house",
+                        "image":"https://zagnow.in/wp-content/uploads/2022/04/living-room-interior-design-furniture-1835923-1-900x500.jpg",
+                        "text":"Renting an apartment can be quite an ordeal in India. The entire process of finding a good home for the next few years means dealing with brokers, sorting out the legalese, building a good rapport with the house owner, and whatnot!",
+                        "category":"Flats & PGs"
+                        },
+                        {
+                            "id":8,
+                            "Created_by":"Axay",
+"Created_on":"",
+
+                            "title":"The connection between weight loss and hair loss‍",
+                            "image":"https://zagnow.in/wp-content/uploads/2022/04/pexels-andrea-piacquadio-3808012-scaled-1-900x500.jpg",
+                            "text":"As studies suggest, there is a strong connection between weight and hair loss, especially if you achieve the former via unhealthy means. What you consume has a direct impact on your body, and the quality of your hair is one of the first telltales of this.",
+                            "category":"Health & Fitness"
+                            },
+                            {
+                                "id":9,
+                                "Created_by":"Axay",
+                                "Created_on":"",
+
+                                "title":"How to start a small business",
+                                "image":"https://zagnow.in/wp-content/uploads/2022/04/begin-scaled-900x500.jpg",
+                                "text":"Starting a business is no small feat: it takes a long time to plan out this endeavor, get all the required paperwork, and start promoting your business to customers.",
+                                "category":"Businesses"
+                            }
+
+
+
+]
+
+
+
     }
     
     
     
+
+
     
